@@ -1,5 +1,6 @@
 ---
 items:
+ - FreezingMoon/AncientBeast
  - gabrielecirulli/2048
  - ellisonleao/clumsy-bird
  - mozilla/BrowserQuest
